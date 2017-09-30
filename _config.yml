@@ -1,13 +1,13 @@
 # main text of home
 name: Yılmaz Bekdemir
-bio: Software Engineer
+bio: Software Engineering, Data Analysis, Math
 # twitter summary info
 description: Personal Page
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-#picture: assets/images/profile.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -38,13 +38,13 @@ twitter: ybekdemir
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: yilmaz-bekdemir
 # youtube: myyoutube
 # spotify: myspotify
 github: ybekdemir
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: Yılmaz-Bekdemir-1
 # reddit: username
 medium: ybekdemir
 # vimeo: myvimeo
@@ -56,7 +56,7 @@ authors:
         name: Yılmaz Bekdemir
         bio: Software Engineer
         external-image: false
-        #picture: assets/images/profile.jpg
+        picture: /assets/images/profile.jpg
         twitter: ybekdemir
 
 # do you want a larger site? change the option below
