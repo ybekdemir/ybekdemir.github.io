@@ -5,7 +5,7 @@ layout: page
 
 Hello there,
 <p>I am software engineer mainly focused on back-end development and data analysis.
- I like to solving analytical problems, puzzles and learning new things..Currently, I am living in Istanbul and looking for a new challenges and want to work for startups in a Germany or Netherlands.
+ I like to solving analytical problems, puzzles, literature and learning new things. 
  </p>
 
 <h2>Skills</h2>
